@@ -35,6 +35,7 @@ To keep track of improvements to the Office 365 Framework, please take a look at
 
 * [@SharePoint](https://twitter.com/sharepoint), [@Microsoft365Dev](https://twitter.com/Microsoft365Dev) and [@m365pnp](https://twitter.com/m365pnp) on Twitter
 * [Office Developer Blog](https://developer.microsoft.com/office/blogs/)
+![Picture1](https://user-images.githubusercontent.com/103814735/163686622-3f48228f-de5f-4739-91c5-85c38d960b57.jpg)
 
 Provide Feedback:
 
